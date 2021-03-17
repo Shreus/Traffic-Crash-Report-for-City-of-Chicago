@@ -5,4 +5,4 @@ Crash data shows information about each traffic crash on city streets within the
 All crashes are recorded as per the format specified in the Traffic Crash Report, SR1050, of the Illinois Department of Transportation. As per Illinois statute, only crashes with a property damage value of $1,500 or more or involving bodily injury to any person(s) and that happen on a public roadway and that involve at least one moving vehicle, except bike dooring, are considered reportable crashes. However, CPD records every reported traffic crash event, regardless of the statute of limitations, and hence any formal Chicago crash dataset released by Illinois Department of Transportation may not include all the crashes listed here.
  
  
-To see the detailed analysis, please open the ipynb file. 
+To see the detailed analysis, please open the ipynb file.  
